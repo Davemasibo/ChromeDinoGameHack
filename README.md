@@ -1,0 +1,2 @@
+# ChromeDinoGameHack
+Unbeatable high scores.
